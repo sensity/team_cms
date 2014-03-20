@@ -1,0 +1,39 @@
+Add/Update:
+
+	Convert all standalone code into functions.
+
+	Make a better filstructure.
+
+	Security:
+		Login Security
+		SQL Injection 
+		URL Parameters
+		Anti-Spam On User Registration, Sent Message.
+
+
+New:
+
+	Add, Edit, Delete User From Admin Panel.
+	Add, Edit, Delete News From Admin Panel.
+
+	Make a module system, so its easy for the user to add/edit/delete modules on the site.
+
+	Add template system (Using bootstrap).
+
+	Pagination/Pagin on news page.
+
+	New Page from database.
+
+	TinyMCE Editor on all forms.
+
+	Implenment API'S
+		STEAM API
+		RIOT API
+		TWITCH API
+		TWITTER API
+		FACEBOOK API
+
+
+
+
+
